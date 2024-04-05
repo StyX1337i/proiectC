@@ -1,0 +1,5 @@
+kriszta soos the_hobbit jrr_tolkien 1
+kriszta soos wuthering_heights emily_bronte 1
+ion ion 1984 george_orwell 2
+ion ion animal_farm george_orwell 2
+bogdan vieriu moby_dick herman_melville 2
